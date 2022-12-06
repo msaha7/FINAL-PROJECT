@@ -14,7 +14,8 @@ Ive researched 5 different places and plan to make interesting stories for each 
 Also as I am possibly going to other people cultures and countires that I may not know too well, I apologize in advance if you are possible offended if I maybe represesnted something wrong, I am doing my best to satify my project, the represenation of my friends, and the country itself with its possible pros and cons. But i feel that I represented everything well, the images are just to give a sense of the senario atm, it has nothing to do with the person itself. So if you may get triggered and if you possibly feel attacked, I promise you I do not mean to try and portray them in an negtaive way! 
 
 #Possible Trigger Warning 
-Homelessness, Unfairness, generaliztion 
+
+Homelessness, Unfairness, generaliztion, suicide
 
 I Hope you enjoy!
 
