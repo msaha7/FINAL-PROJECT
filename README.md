@@ -15,7 +15,7 @@ Also as I am possibly going to other people cultures and countires that I may no
 
 #Possible Trigger Warning 
 
-Homelessness, Unfairness, generaliztion, suicide
+Homelessness, Unfairness, generaliztion, suicide, death, starvation
 
 I Hope you enjoy!
 
