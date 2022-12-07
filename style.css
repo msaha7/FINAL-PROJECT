@@ -1,12 +1,16 @@
+h1{
+    color:darkviolet;
+}
+h2 {
+    color:deeppink;
+    padding-left: 5%;
+}
 
-
-h1, h2, h3, h4 {
-    color:grey;
-    padding-left: 7;
+h1, h2 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-p1{
+p {
     letter-spacing: 10px;
     /*padding-left: 10%;*/
     background: coral;
@@ -15,7 +19,7 @@ p1{
     margin:auto; 
 }
 
-intro1{
+a{
    color:azure; 
    text-decoration:none;
    padding: 1em 0; 
