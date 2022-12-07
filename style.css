@@ -6,11 +6,11 @@ h2 {
     padding-left: 5%;
 }
 
-h1, h2 {
+h1, h2, h3, h4 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-p {
+j1{
     letter-spacing: 10px;
     /*padding-left: 10%;*/
     background: coral;
@@ -19,7 +19,7 @@ p {
     margin:auto; 
 }
 
-a{
+intro1{
    color:azure; 
    text-decoration:none;
    padding: 1em 0; 
