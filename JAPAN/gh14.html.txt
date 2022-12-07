@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<style>
+            div.bg {
+                background: url("/life/Pictures/ghana22.png") repeat;
+                border: 2px solid black;
+            }
+
+            div.ax {
+                margin: 35px;
+                background-color: #ffffff;
+                border: 1px solid black;
+                opacity: 0.8;
+            }
+
+            div.ax p {
+                margin: 10%;
+                font-weight: bold;
+                color: #000000;
+            }
+        	</style>
+	</head>
+	<body>
+		<div class="bg">
+			<div class="ax">
+				<h1> You were born in a small town in Ghana called Sunyani. You live in a small village with your parents, grandparents and 3 siblings. Your family may be struggling to eat and drink from time to time but that does not bother you, you are happy with your lifestyle. You get sent to the village school to learn.</h1> 
+				<h2> Pay Attention? </h2>
+				<p><a href = "ghana1.html">Yes</a></p>
+				<p><a href = "ghana5.html">No</a></p>
+				<link rel="stylesheet" href="styles.css">
+			</div>
+		</div>
+	</body>
+</html>
